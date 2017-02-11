@@ -1,0 +1,390 @@
+# Logfile created on 2015-12-10 22:41:28 -0800 by logger.rb/44203
+[2015-12-10 22:41:28 -0800 robertopia (84866)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 22:41:28 -0800 robertopia (84866)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 22:41:28 -0800 robertopia (84866)] WARN : No configuration file found. Working directory = /Users/robert/github/payout/rester
+[2015-12-10 22:41:28 -0800 robertopia (84866)] WARN : Looked in these locations (based on defaults): /Users/robert/github/payout/rester/config/newrelic.yml, /Users/robert/github/payout/rester/newrelic.yml, /Users/robert/github/payout/rester/config/newrelic.yml, /Users/robert/github/payout/rester/newrelic.yml, /Users/robert/.newrelic/newrelic.yml, /Users/robert/newrelic.yml
+[2015-12-10 22:41:28 -0800 robertopia (84866)] INFO : Environment: development
+[2015-12-10 22:41:28 -0800 robertopia (84866)] INFO : No known dispatcher detected.
+[2015-12-10 22:41:28 -0800 robertopia (84866)] INFO : Application: development
+[2015-12-10 22:41:28 -0800 robertopia (84866)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2015-12-10 22:41:28 -0800 robertopia (84866)] INFO : Installing Net instrumentation
+[2015-12-10 22:41:28 -0800 robertopia (84866)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 22:41:28 -0800 robertopia (84866)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 22:41:28 -0800 robertopia (84866)] INFO : Finished instrumentation
+[2015-12-10 22:43:33 -0800 robertopia (84927)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 22:43:33 -0800 robertopia (84927)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 22:43:33 -0800 robertopia (84927)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 22:43:33 -0800 robertopia (84927)] INFO : Environment: development
+[2015-12-10 22:43:33 -0800 robertopia (84927)] INFO : No known dispatcher detected.
+[2015-12-10 22:43:33 -0800 robertopia (84927)] INFO : Application: Rester test
+[2015-12-10 22:43:35 -0800 robertopia (84927)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 22:43:35 -0800 robertopia (84927)] INFO : Installing Net instrumentation
+[2015-12-10 22:43:35 -0800 robertopia (84927)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 22:43:35 -0800 robertopia (84927)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 22:43:35 -0800 robertopia (84927)] INFO : Finished instrumentation
+[2015-12-10 22:43:44 -0800 robertopia (84927)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 22:44:00 -0800 robertopia (84927)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 22:44:00 -0800 robertopia (84927)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 22:44:00 -0800 robertopia (84927)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 22:44:18 -0800 robertopia (84927)] INFO : aoeu
+[2015-12-10 22:44:50 -0800 robertopia (84927)] INFO : Starting Agent shutdown
+[2015-12-10 22:45:23 -0800 robertopia (84973)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 22:45:23 -0800 robertopia (84973)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 22:45:23 -0800 robertopia (84973)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 22:45:23 -0800 robertopia (84973)] INFO : Environment: development
+[2015-12-10 22:45:23 -0800 robertopia (84973)] INFO : No known dispatcher detected.
+[2015-12-10 22:45:23 -0800 robertopia (84973)] INFO : Application: Rester test
+[2015-12-10 22:45:25 -0800 robertopia (84973)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 22:45:26 -0800 robertopia (84973)] INFO : Installing Net instrumentation
+[2015-12-10 22:45:26 -0800 robertopia (84973)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 22:45:26 -0800 robertopia (84973)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 22:45:26 -0800 robertopia (84973)] INFO : Finished instrumentation
+[2015-12-10 22:45:26 -0800 robertopia (84973)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 22:45:27 -0800 robertopia (84973)] INFO : Starting Agent shutdown
+[2015-12-10 22:45:41 -0800 robertopia (85004)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 22:45:41 -0800 robertopia (85004)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 22:45:41 -0800 robertopia (85004)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 22:45:41 -0800 robertopia (85004)] INFO : Environment: development
+[2015-12-10 22:45:41 -0800 robertopia (85004)] INFO : No known dispatcher detected.
+[2015-12-10 22:45:41 -0800 robertopia (85004)] INFO : Application: Rester test
+[2015-12-10 22:45:43 -0800 robertopia (85004)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 22:45:43 -0800 robertopia (85004)] INFO : Installing Net instrumentation
+[2015-12-10 22:45:43 -0800 robertopia (85004)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 22:45:43 -0800 robertopia (85004)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 22:45:43 -0800 robertopia (85004)] INFO : Finished instrumentation
+[2015-12-10 22:45:43 -0800 robertopia (85004)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 22:51:59 -0800 robertopia (85004)] INFO : Starting Agent shutdown
+[2015-12-10 22:52:21 -0800 robertopia (85161)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 22:52:21 -0800 robertopia (85161)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 22:52:21 -0800 robertopia (85161)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 22:52:21 -0800 robertopia (85161)] INFO : Environment: development
+[2015-12-10 22:52:21 -0800 robertopia (85161)] INFO : No known dispatcher detected.
+[2015-12-10 22:52:21 -0800 robertopia (85161)] INFO : Application: Rester test
+[2015-12-10 22:52:24 -0800 robertopia (85161)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 22:52:24 -0800 robertopia (85161)] INFO : Installing Net instrumentation
+[2015-12-10 22:52:24 -0800 robertopia (85161)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 22:52:24 -0800 robertopia (85161)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 22:52:24 -0800 robertopia (85161)] INFO : Finished instrumentation
+[2015-12-10 22:52:24 -0800 robertopia (85161)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 22:54:14 -0800 robertopia (85161)] INFO : Starting Agent shutdown
+[2015-12-10 22:54:31 -0800 robertopia (85226)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 22:54:31 -0800 robertopia (85226)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 22:54:31 -0800 robertopia (85226)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 22:54:31 -0800 robertopia (85226)] INFO : Environment: development
+[2015-12-10 22:54:31 -0800 robertopia (85226)] INFO : No known dispatcher detected.
+[2015-12-10 22:54:31 -0800 robertopia (85226)] INFO : Application: Rester test
+[2015-12-10 22:54:33 -0800 robertopia (85226)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 22:54:33 -0800 robertopia (85226)] INFO : Installing Net instrumentation
+[2015-12-10 22:54:33 -0800 robertopia (85226)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 22:54:33 -0800 robertopia (85226)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 22:54:33 -0800 robertopia (85226)] INFO : Finished instrumentation
+[2015-12-10 22:54:33 -0800 robertopia (85226)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 22:56:11 -0800 robertopia (85226)] INFO : Starting Agent shutdown
+[2015-12-10 22:56:21 -0800 robertopia (85291)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 22:56:21 -0800 robertopia (85291)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 22:56:21 -0800 robertopia (85291)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 22:56:21 -0800 robertopia (85291)] INFO : Environment: development
+[2015-12-10 22:56:21 -0800 robertopia (85291)] INFO : No known dispatcher detected.
+[2015-12-10 22:56:21 -0800 robertopia (85291)] INFO : Application: Rester test
+[2015-12-10 22:56:23 -0800 robertopia (85291)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 22:56:23 -0800 robertopia (85291)] INFO : Installing Net instrumentation
+[2015-12-10 22:56:23 -0800 robertopia (85291)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 22:56:23 -0800 robertopia (85291)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 22:56:23 -0800 robertopia (85291)] INFO : Finished instrumentation
+[2015-12-10 22:56:23 -0800 robertopia (85291)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 22:58:17 -0800 robertopia (85291)] INFO : Starting Agent shutdown
+[2015-12-10 22:58:26 -0800 robertopia (85356)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 22:58:26 -0800 robertopia (85356)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 22:58:26 -0800 robertopia (85356)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 22:58:26 -0800 robertopia (85356)] INFO : Environment: development
+[2015-12-10 22:58:26 -0800 robertopia (85356)] INFO : No known dispatcher detected.
+[2015-12-10 22:58:26 -0800 robertopia (85356)] INFO : Application: Rester test
+[2015-12-10 22:58:28 -0800 robertopia (85356)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 22:58:28 -0800 robertopia (85356)] INFO : Installing Net instrumentation
+[2015-12-10 22:58:28 -0800 robertopia (85356)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 22:58:28 -0800 robertopia (85356)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 22:58:28 -0800 robertopia (85356)] INFO : Finished instrumentation
+[2015-12-10 22:58:28 -0800 robertopia (85356)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:01:30 -0800 robertopia (85356)] INFO : Starting Agent shutdown
+[2015-12-10 23:01:33 -0800 robertopia (85448)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:01:33 -0800 robertopia (85448)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:01:33 -0800 robertopia (85448)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:01:33 -0800 robertopia (85448)] INFO : Environment: development
+[2015-12-10 23:01:33 -0800 robertopia (85448)] INFO : No known dispatcher detected.
+[2015-12-10 23:01:33 -0800 robertopia (85448)] INFO : Application: Rester test
+[2015-12-10 23:01:34 -0800 robertopia (85448)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:01:34 -0800 robertopia (85448)] INFO : Installing Net instrumentation
+[2015-12-10 23:01:34 -0800 robertopia (85448)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:01:34 -0800 robertopia (85448)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:01:34 -0800 robertopia (85448)] INFO : Finished instrumentation
+[2015-12-10 23:01:50 -0800 robertopia (85448)] INFO : Starting Agent shutdown
+[2015-12-10 23:01:53 -0800 robertopia (85472)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:01:53 -0800 robertopia (85472)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:01:53 -0800 robertopia (85472)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:01:53 -0800 robertopia (85472)] INFO : Environment: development
+[2015-12-10 23:01:53 -0800 robertopia (85472)] INFO : No known dispatcher detected.
+[2015-12-10 23:01:53 -0800 robertopia (85472)] INFO : Application: Rester test
+[2015-12-10 23:01:54 -0800 robertopia (85472)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:01:54 -0800 robertopia (85472)] INFO : Installing Net instrumentation
+[2015-12-10 23:01:54 -0800 robertopia (85472)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:01:54 -0800 robertopia (85472)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:01:54 -0800 robertopia (85472)] INFO : Finished instrumentation
+[2015-12-10 23:02:34 -0800 robertopia (85472)] INFO : Starting Agent shutdown
+[2015-12-10 23:02:36 -0800 robertopia (85508)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:02:36 -0800 robertopia (85508)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:02:36 -0800 robertopia (85508)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:02:36 -0800 robertopia (85508)] INFO : Environment: development
+[2015-12-10 23:02:36 -0800 robertopia (85508)] INFO : No known dispatcher detected.
+[2015-12-10 23:02:36 -0800 robertopia (85508)] INFO : Application: Rester test
+[2015-12-10 23:02:38 -0800 robertopia (85508)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:02:38 -0800 robertopia (85508)] INFO : Installing Net instrumentation
+[2015-12-10 23:02:38 -0800 robertopia (85508)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:02:38 -0800 robertopia (85508)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:02:38 -0800 robertopia (85508)] INFO : Finished instrumentation
+[2015-12-10 23:05:49 -0800 robertopia (85652)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:05:49 -0800 robertopia (85652)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:05:49 -0800 robertopia (85652)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:05:49 -0800 robertopia (85652)] INFO : Environment: development
+[2015-12-10 23:05:49 -0800 robertopia (85652)] INFO : No known dispatcher detected.
+[2015-12-10 23:05:49 -0800 robertopia (85652)] INFO : Application: Rester test
+[2015-12-10 23:05:51 -0800 robertopia (85652)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:05:51 -0800 robertopia (85652)] INFO : Installing Net instrumentation
+[2015-12-10 23:05:51 -0800 robertopia (85652)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:05:51 -0800 robertopia (85652)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:05:51 -0800 robertopia (85652)] INFO : Finished instrumentation
+[2015-12-10 23:05:51 -0800 robertopia (85652)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:09:55 -0800 robertopia (85652)] INFO : Starting Agent shutdown
+[2015-12-10 23:10:00 -0800 robertopia (85760)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:10:00 -0800 robertopia (85760)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:10:00 -0800 robertopia (85760)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:10:00 -0800 robertopia (85760)] INFO : Environment: development
+[2015-12-10 23:10:00 -0800 robertopia (85760)] INFO : No known dispatcher detected.
+[2015-12-10 23:10:00 -0800 robertopia (85760)] INFO : Application: Rester test
+[2015-12-10 23:10:02 -0800 robertopia (85760)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:10:02 -0800 robertopia (85760)] INFO : Installing Net instrumentation
+[2015-12-10 23:10:02 -0800 robertopia (85760)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:10:02 -0800 robertopia (85760)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:10:02 -0800 robertopia (85760)] INFO : Finished instrumentation
+[2015-12-10 23:10:02 -0800 robertopia (85760)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:11:04 -0800 robertopia (85760)] INFO : Starting Agent shutdown
+[2015-12-10 23:16:55 -0800 robertopia (85925)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:16:55 -0800 robertopia (85925)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:16:55 -0800 robertopia (85925)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:16:55 -0800 robertopia (85925)] INFO : Environment: development
+[2015-12-10 23:16:55 -0800 robertopia (85925)] INFO : No known dispatcher detected.
+[2015-12-10 23:16:55 -0800 robertopia (85925)] INFO : Application: Rester test
+[2015-12-10 23:16:57 -0800 robertopia (85925)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:16:57 -0800 robertopia (85925)] INFO : Installing Net instrumentation
+[2015-12-10 23:16:57 -0800 robertopia (85925)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:16:57 -0800 robertopia (85925)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:16:57 -0800 robertopia (85925)] INFO : Finished instrumentation
+[2015-12-10 23:16:57 -0800 robertopia (85925)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:17:05 -0800 robertopia (85925)] INFO : Starting Agent shutdown
+[2015-12-10 23:17:08 -0800 robertopia (85947)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:17:08 -0800 robertopia (85947)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:17:08 -0800 robertopia (85947)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:17:08 -0800 robertopia (85947)] INFO : Environment: development
+[2015-12-10 23:17:08 -0800 robertopia (85947)] INFO : No known dispatcher detected.
+[2015-12-10 23:17:08 -0800 robertopia (85947)] INFO : Application: Rester test
+[2015-12-10 23:17:09 -0800 robertopia (85947)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:17:09 -0800 robertopia (85947)] INFO : Installing Net instrumentation
+[2015-12-10 23:17:09 -0800 robertopia (85947)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:17:09 -0800 robertopia (85947)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:17:09 -0800 robertopia (85947)] INFO : Finished instrumentation
+[2015-12-10 23:17:09 -0800 robertopia (85947)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:17:15 -0800 robertopia (85947)] INFO : Starting Agent shutdown
+[2015-12-10 23:18:07 -0800 robertopia (85985)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:18:07 -0800 robertopia (85985)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:18:07 -0800 robertopia (85985)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:18:07 -0800 robertopia (85985)] INFO : Environment: development
+[2015-12-10 23:18:07 -0800 robertopia (85985)] INFO : No known dispatcher detected.
+[2015-12-10 23:18:07 -0800 robertopia (85985)] INFO : Application: Rester test
+[2015-12-10 23:18:09 -0800 robertopia (85985)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:18:09 -0800 robertopia (85985)] INFO : Installing Net instrumentation
+[2015-12-10 23:18:09 -0800 robertopia (85985)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:18:09 -0800 robertopia (85985)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:18:09 -0800 robertopia (85985)] INFO : Finished instrumentation
+[2015-12-10 23:18:09 -0800 robertopia (85985)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:18:17 -0800 robertopia (85985)] INFO : Starting Agent shutdown
+[2015-12-10 23:20:39 -0800 robertopia (86052)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:20:39 -0800 robertopia (86052)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:20:39 -0800 robertopia (86052)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:20:39 -0800 robertopia (86052)] INFO : Environment: development
+[2015-12-10 23:20:39 -0800 robertopia (86052)] INFO : No known dispatcher detected.
+[2015-12-10 23:20:39 -0800 robertopia (86052)] INFO : Application: Rester test
+[2015-12-10 23:20:41 -0800 robertopia (86052)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:20:41 -0800 robertopia (86052)] INFO : Installing Net instrumentation
+[2015-12-10 23:20:41 -0800 robertopia (86052)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:20:41 -0800 robertopia (86052)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:20:41 -0800 robertopia (86052)] INFO : Finished instrumentation
+[2015-12-10 23:20:41 -0800 robertopia (86052)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:20:43 -0800 robertopia (86052)] INFO : Starting Agent shutdown
+[2015-12-10 23:23:32 -0800 robertopia (86127)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:23:32 -0800 robertopia (86127)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:23:32 -0800 robertopia (86127)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:23:32 -0800 robertopia (86127)] INFO : Environment: development
+[2015-12-10 23:23:32 -0800 robertopia (86127)] INFO : No known dispatcher detected.
+[2015-12-10 23:23:32 -0800 robertopia (86127)] INFO : Application: Rester test
+[2015-12-10 23:23:34 -0800 robertopia (86127)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:23:34 -0800 robertopia (86127)] INFO : Installing Net instrumentation
+[2015-12-10 23:23:34 -0800 robertopia (86127)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:23:34 -0800 robertopia (86127)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:23:34 -0800 robertopia (86127)] INFO : Finished instrumentation
+[2015-12-10 23:23:34 -0800 robertopia (86127)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:23:37 -0800 robertopia (86127)] INFO : Starting Agent shutdown
+[2015-12-10 23:39:52 -0800 robertopia (86477)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:39:52 -0800 robertopia (86477)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:39:52 -0800 robertopia (86477)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:39:52 -0800 robertopia (86477)] INFO : Environment: development
+[2015-12-10 23:39:52 -0800 robertopia (86477)] INFO : No known dispatcher detected.
+[2015-12-10 23:39:52 -0800 robertopia (86477)] INFO : Application: Rester test
+[2015-12-10 23:39:54 -0800 robertopia (86477)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:39:54 -0800 robertopia (86477)] INFO : Installing Net instrumentation
+[2015-12-10 23:39:54 -0800 robertopia (86477)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:39:54 -0800 robertopia (86477)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:39:54 -0800 robertopia (86477)] INFO : Finished instrumentation
+[2015-12-10 23:39:54 -0800 robertopia (86477)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:40:21 -0800 robertopia (86477)] INFO : Starting Agent shutdown
+[2015-12-10 23:40:23 -0800 robertopia (86507)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:40:23 -0800 robertopia (86507)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:40:23 -0800 robertopia (86507)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:40:23 -0800 robertopia (86507)] INFO : Environment: development
+[2015-12-10 23:40:23 -0800 robertopia (86507)] INFO : No known dispatcher detected.
+[2015-12-10 23:40:23 -0800 robertopia (86507)] INFO : Application: Rester test
+[2015-12-10 23:40:25 -0800 robertopia (86507)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:40:25 -0800 robertopia (86507)] INFO : Installing Net instrumentation
+[2015-12-10 23:40:25 -0800 robertopia (86507)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:40:25 -0800 robertopia (86507)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:40:25 -0800 robertopia (86507)] INFO : Finished instrumentation
+[2015-12-10 23:40:25 -0800 robertopia (86507)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:40:36 -0800 robertopia (86507)] INFO : Starting Agent shutdown
+[2015-12-10 23:40:38 -0800 robertopia (86531)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:40:38 -0800 robertopia (86531)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:40:38 -0800 robertopia (86531)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:40:38 -0800 robertopia (86531)] INFO : Environment: development
+[2015-12-10 23:40:38 -0800 robertopia (86531)] INFO : No known dispatcher detected.
+[2015-12-10 23:40:38 -0800 robertopia (86531)] INFO : Application: Rester test
+[2015-12-10 23:40:40 -0800 robertopia (86531)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:40:40 -0800 robertopia (86531)] INFO : Installing Net instrumentation
+[2015-12-10 23:40:40 -0800 robertopia (86531)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:40:40 -0800 robertopia (86531)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:40:40 -0800 robertopia (86531)] INFO : Finished instrumentation
+[2015-12-10 23:40:40 -0800 robertopia (86531)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:41:28 -0800 robertopia (86531)] INFO : Starting Agent shutdown
+[2015-12-10 23:42:05 -0800 robertopia (86578)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:42:05 -0800 robertopia (86578)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:42:05 -0800 robertopia (86578)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:42:05 -0800 robertopia (86578)] INFO : Environment: development
+[2015-12-10 23:42:05 -0800 robertopia (86578)] INFO : No known dispatcher detected.
+[2015-12-10 23:42:05 -0800 robertopia (86578)] INFO : Application: Rester test
+[2015-12-10 23:42:07 -0800 robertopia (86578)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:42:07 -0800 robertopia (86578)] INFO : Installing Net instrumentation
+[2015-12-10 23:42:07 -0800 robertopia (86578)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:42:07 -0800 robertopia (86578)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:42:07 -0800 robertopia (86578)] INFO : Finished instrumentation
+[2015-12-10 23:42:07 -0800 robertopia (86578)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:42:55 -0800 robertopia (86578)] INFO : Starting Agent shutdown
+[2015-12-10 23:43:03 -0800 robertopia (86614)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:43:03 -0800 robertopia (86614)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:43:03 -0800 robertopia (86614)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:43:03 -0800 robertopia (86614)] INFO : Environment: development
+[2015-12-10 23:43:03 -0800 robertopia (86614)] INFO : No known dispatcher detected.
+[2015-12-10 23:43:03 -0800 robertopia (86614)] INFO : Application: Rester test
+[2015-12-10 23:43:10 -0800 robertopia (86614)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:43:10 -0800 robertopia (86614)] INFO : Installing Net instrumentation
+[2015-12-10 23:43:10 -0800 robertopia (86614)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:43:10 -0800 robertopia (86614)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:43:10 -0800 robertopia (86614)] INFO : Finished instrumentation
+[2015-12-10 23:43:10 -0800 robertopia (86614)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:44:26 -0800 robertopia (86614)] INFO : Starting Agent shutdown
+[2015-12-10 23:44:28 -0800 robertopia (86661)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:44:28 -0800 robertopia (86661)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:44:28 -0800 robertopia (86661)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:44:28 -0800 robertopia (86661)] INFO : Environment: development
+[2015-12-10 23:44:28 -0800 robertopia (86661)] INFO : No known dispatcher detected.
+[2015-12-10 23:44:28 -0800 robertopia (86661)] INFO : Application: Rester test
+[2015-12-10 23:44:29 -0800 robertopia (86661)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:44:29 -0800 robertopia (86661)] INFO : Installing Net instrumentation
+[2015-12-10 23:44:29 -0800 robertopia (86661)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:44:29 -0800 robertopia (86661)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:44:29 -0800 robertopia (86661)] INFO : Finished instrumentation
+[2015-12-10 23:44:29 -0800 robertopia (86661)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:45:33 -0800 robertopia (86661)] INFO : Starting Agent shutdown
+[2015-12-10 23:45:47 -0800 robertopia (86710)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:45:47 -0800 robertopia (86710)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:45:47 -0800 robertopia (86710)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:45:47 -0800 robertopia (86710)] INFO : Environment: development
+[2015-12-10 23:45:47 -0800 robertopia (86710)] INFO : No known dispatcher detected.
+[2015-12-10 23:45:47 -0800 robertopia (86710)] INFO : Application: Rester test
+[2015-12-10 23:45:48 -0800 robertopia (86710)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:45:48 -0800 robertopia (86710)] INFO : Installing Net instrumentation
+[2015-12-10 23:45:48 -0800 robertopia (86710)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:45:48 -0800 robertopia (86710)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:45:48 -0800 robertopia (86710)] INFO : Finished instrumentation
+[2015-12-10 23:45:48 -0800 robertopia (86710)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:49:32 -0800 robertopia (86710)] INFO : Starting Agent shutdown
+[2015-12-10 23:57:38 -0800 robertopia (87079)] INFO : Starting the New Relic agent in "development" environment.
+[2015-12-10 23:57:38 -0800 robertopia (87079)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2015-12-10 23:57:38 -0800 robertopia (87079)] INFO : Reading configuration from config/newrelic.yml (/Users/robert/github/payout/rester)
+[2015-12-10 23:57:38 -0800 robertopia (87079)] INFO : Environment: development
+[2015-12-10 23:57:38 -0800 robertopia (87079)] INFO : No known dispatcher detected.
+[2015-12-10 23:57:38 -0800 robertopia (87079)] INFO : Application: Rester test
+[2015-12-10 23:57:40 -0800 robertopia (87079)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1078287/applications/13638358
+[2015-12-10 23:57:40 -0800 robertopia (87079)] INFO : Installing Net instrumentation
+[2015-12-10 23:57:40 -0800 robertopia (87079)] INFO : Installing deferred Rack::Builder instrumentation
+[2015-12-10 23:57:40 -0800 robertopia (87079)] INFO : Installing Rack::Builder middleware instrumentation
+[2015-12-10 23:57:40 -0800 robertopia (87079)] INFO : Finished instrumentation
+[2015-12-10 23:57:40 -0800 robertopia (87079)] INFO : Doing deferred dependency-detection before Rack startup
+[2015-12-10 23:59:31 -0800 robertopia (87079)] INFO : Starting Agent shutdown
+[01/20/16 14:17:30 -0800 robertopia (46215)] INFO : Starting the New Relic agent in "development" environment.
+[01/20/16 14:17:30 -0800 robertopia (46215)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[01/20/16 14:17:30 -0800 robertopia (46215)] WARN : No configuration file found. Working directory = /Users/robert/github/payout/rester
+[01/20/16 14:17:30 -0800 robertopia (46215)] WARN : Looked in these locations (based on defaults): /Users/robert/github/payout/rester/config/newrelic.yml, /Users/robert/github/payout/rester/newrelic.yml, /Users/robert/github/payout/rester/config/newrelic.yml, /Users/robert/github/payout/rester/newrelic.yml, /Users/robert/.newrelic/newrelic.yml, /Users/robert/newrelic.yml
+[01/20/16 14:17:30 -0800 robertopia (46215)] INFO : Environment: development
+[01/20/16 14:17:30 -0800 robertopia (46215)] INFO : No known dispatcher detected.
+[01/20/16 14:17:30 -0800 robertopia (46215)] INFO : Application: development
+[01/20/16 14:17:30 -0800 robertopia (46215)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[01/20/16 14:17:30 -0800 robertopia (46215)] INFO : Starting the New Relic agent in "development" environment.
+[01/20/16 14:17:30 -0800 robertopia (46215)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[01/20/16 14:17:30 -0800 robertopia (46215)] WARN : No configuration file found. Working directory = /Users/robert/github/payout/rester
+[01/20/16 14:17:30 -0800 robertopia (46215)] WARN : Looked in these locations (based on defaults): /Users/robert/github/payout/rester/config/newrelic.yml, /Users/robert/github/payout/rester/newrelic.yml, /Users/robert/github/payout/rester/config/newrelic.yml, /Users/robert/github/payout/rester/newrelic.yml, /Users/robert/.newrelic/newrelic.yml, /Users/robert/newrelic.yml
+[01/20/16 14:17:30 -0800 robertopia (46215)] ERROR : Cannot install the Agent shim after instrumentation has already been installed!
+[01/20/16 14:17:30 -0800 robertopia (46215)] ERROR : /Users/robert/.rvm/gems/ruby-2.1.6/gems/newrelic_rpm-3.11.2.286/lib/new_relic/control/instance_methods.rb:76:in `init_plugin'
+/Users/robert/.rvm/gems/ruby-2.1.6/gems/newrelic_rpm-3.11.2.286/lib/newrelic_rpm.rb:53:in `<top (required)>'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby/2.1.0/rubygems/core_ext/kernel_require.rb:54:in `require'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby/2.1.0/rubygems/core_ext/kernel_require.rb:54:in `require'
+/Users/robert/.rvm/gems/ruby-2.1.6/gems/newrelic_rpm-3.11.2.286/lib/new_relic/agent/instrumentation/sequel.rb:6:in `<top (required)>'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby/2.1.0/rubygems/core_ext/kernel_require.rb:54:in `require'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/site_ruby/2.1.0/rubygems/core_ext/kernel_require.rb:54:in `require'
+/Users/robert/.rvm/gems/ruby-2.1.6/gems/newrelic_rpm-3.11.2.286/lib/new_relic/control/instrumentation.rb:19:in `block in load_instrumentation_files'
+/Users/robert/.rvm/gems/ruby-2.1.6/gems/newrelic_rpm-3.11.2.286/lib/new_relic/control/instrumentation.rb:17:in `glob'
+/Users/robert/.rvm/gems/ruby-2.1.6/gems/newrelic_rpm-3.11.2.286/lib/new_relic/control/instrumentation.rb:17:in `load_instrumentation_files'
+/Users/robert/.rvm/gems/ruby-2.1.6/gems/newrelic_rpm-3.11.2.286/lib/new_relic/control/instrumentation.rb:72:in `block in _install_instrumentation'
+/Users/robert/.rvm/gems/ruby-2.1.6/gems/newrelic_rpm-3.11.2.286/lib/new_relic/control/instrumentation.rb:72:in `each'
+/Users/robert/.rvm/gems/ruby-2.1.6/gems/newrelic_rpm-3.11.2.286/lib/new_relic/control/instrumentation.rb:72:in `_install_instrumentation'
+/Users/robert/.rvm/gems/ruby-2.1.6/gems/newrelic_rpm-3.11.2.286/lib/new_relic/control/instrumentation.rb:56:in `install_instrumentation'
+/Users/robert/.rvm/gems/ruby-2.1.6/gems/newrelic_rpm-3.11.2.286/lib/new_relic/control/instance_methods.rb:74:in `init_plugin'
+/Users/robert/.rvm/gems/ruby-2.1.6/gems/newrelic_rpm-3.11.2.286/lib/new_relic/agent.rb:276:in `manual_start'
+/Users/robert/github/payout/rester/lib/rester/service/middleware/new_relic.rb:4:in `<top (required)>'
+(irb):4:in `<class:Blah>'
+(irb):3:in `irb_binding'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/irb/workspace.rb:86:in `eval'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/irb/workspace.rb:86:in `evaluate'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/irb/context.rb:380:in `evaluate'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/irb.rb:492:in `block (2 levels) in eval_input'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/irb.rb:624:in `signal_status'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/irb.rb:489:in `block in eval_input'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/irb/ruby-lex.rb:247:in `block (2 levels) in each_top_level_statement'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/irb/ruby-lex.rb:233:in `loop'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/irb/ruby-lex.rb:233:in `block in each_top_level_statement'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/irb/ruby-lex.rb:232:in `catch'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/irb/ruby-lex.rb:232:in `each_top_level_statement'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/irb.rb:488:in `eval_input'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/irb.rb:397:in `block in start'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/irb.rb:396:in `catch'
+/Users/robert/.rvm/rubies/ruby-2.1.6/lib/ruby/2.1.0/irb.rb:396:in `start'
+/Users/robert/.rvm/rubies/ruby-2.1.6/bin/irb:11:in `<main>'
+[01/20/16 14:17:30 -0800 robertopia (46215)] INFO : Installing Net instrumentation
+[01/20/16 14:17:30 -0800 robertopia (46215)] INFO : Installing deferred Rack instrumentation
+[01/20/16 14:17:30 -0800 robertopia (46215)] INFO : Installing Rack::Builder middleware instrumentation
+[01/20/16 14:17:30 -0800 robertopia (46215)] INFO : Finished instrumentation
